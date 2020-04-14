@@ -3,72 +3,78 @@ export const robots = [
     id: 1,
     name: 'Preetam Raj',
     username: 'iitianpreetam',
-    email: 'contact@iitianpreetam.in'
+    email: 'iitianpreetam@mechanicalwala.com'
   },
   {
     id: 2,
     name: 'Piyush Ranjan',
     username: 'piyushnasha',
-    email: 'sasta@nasha.com'
+    email: 'sastanasha@electricalwala.com'
   },
   {
     id: 3,
     name: 'Prashant Kumar',
     username: 'Prashantkr',
-    email: 'prashant@gmail.com'
+    email: 'prashant@csewala.com'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
+    name: 'Saikiran Sitawar',
     username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    email: 'SaiKiran@civilwala.com'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
+    name: 'Priyanshu Singh',
     username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    email: 'singhpriyanshu@csewala.com'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
+    name: 'Parag Ramteke',
     username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    email: 'parag@csewala.com'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
+    name: 'Rishav Raj',
     username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    email: 'rishav@mechanicalwala.com'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
+    name: 'Shubham Saurabh',
     username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    email: 'saurabh@epwala.com'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
+    name: 'Rajat Kaushik',
     username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+    email: 'rkaushikji@csewala.com'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
+    name: 'Piyush Tejwan',
     username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    email: 'Piyushtej@electricalwala.com'
   },
   {
     id: 11,
     name: 'Raushan Raj',
     username: 'gaanja',
-    email: 'gaanja@gmail.com'
+    email: 'gaanja@mechanicalwala.com'
   },
   {
     id: 12,
     name: 'Ravi Kumar',
     username: 'raviphoto',
-    email: 'raviphoto@gmail.com'
+    email: 'raviphoto@civilwala.com'
+  },
+  {
+    id: 13,
+    name: 'Priyam Seth',
+    username: 'priyam',
+    email: 'bhutkhub@electricalwala.com'
   }
 ];
