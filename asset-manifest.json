@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PreetamsFriend/static/css/main.b2ad7ffd.chunk.css",
+    "main.js": "/PreetamsFriend/static/js/main.7220637f.chunk.js",
+    "main.js.map": "/PreetamsFriend/static/js/main.7220637f.chunk.js.map",
+    "runtime-main.js": "/PreetamsFriend/static/js/runtime-main.39d387cb.js",
+    "runtime-main.js.map": "/PreetamsFriend/static/js/runtime-main.39d387cb.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/PreetamsFriend/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.38d4e27b.chunk.js": "/PreetamsFriend/static/js/2.38d4e27b.chunk.js",
+    "static/js/2.38d4e27b.chunk.js.map": "/PreetamsFriend/static/js/2.38d4e27b.chunk.js.map",
+    "index.html": "/PreetamsFriend/index.html",
+    "precache-manifest.2f115ca34245cdac9934638771a390ae.js": "/PreetamsFriend/precache-manifest.2f115ca34245cdac9934638771a390ae.js",
+    "service-worker.js": "/PreetamsFriend/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/PreetamsFriend/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.b2ad7ffd.chunk.css.map": "/PreetamsFriend/static/css/main.b2ad7ffd.chunk.css.map",
+    "static/js/2.38d4e27b.chunk.js.LICENSE.txt": "/PreetamsFriend/static/js/2.38d4e27b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/PreetamsFriend/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39d387cb.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.38d4e27b.chunk.js",
+    "static/css/main.b2ad7ffd.chunk.css",
+    "static/js/main.7220637f.chunk.js"
+  ]
+}
